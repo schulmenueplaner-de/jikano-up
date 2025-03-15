@@ -4,25 +4,27 @@
     "url": "https://www.schulmenueplaner.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.schulmenueplaner.de.ico",
     "slug": "schulmenueplaner-de",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1650,
     "timeDay": 2023,
     "timeWeek": 1650,
     "timeMonth": 1650,
     "timeYear": 1650,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-15": 1
+    }
   },
   {
     "name": "mailserver test",
     "url": "mail.schulmenueplaner.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-15": 0
+    }
   }
 ]
