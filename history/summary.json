@@ -6,9 +6,9 @@
     "slug": "schulmenueplaner-de",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 1626,
     "timeDay": 1752,
@@ -16,7 +16,7 @@
     "timeMonth": 1626,
     "timeYear": 1626,
     "dailyMinutesDown": {
-      "2025-05-17": 1,
+      "2025-05-17": 5,
       "2025-05-10": 25
     }
   },
@@ -25,19 +25,19 @@
     "url": "mail.schulmenueplaner.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-test",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 126,
-    "timeDay": 134,
-    "timeWeek": 125,
-    "timeMonth": 124,
+    "timeDay": 144,
+    "timeWeek": 128,
+    "timeMonth": 125,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-05-17": 0,
+      "2025-05-17": 4,
       "2025-05-10": 24
     }
   }
