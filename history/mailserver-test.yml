@@ -1,7 +1,7 @@
 url: mail.schulmenueplaner.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-26T22:53:37.296Z
+status: up
+code: 200
+responseTime: 117
+lastUpdated: 2025-05-26T22:57:34.721Z
 startTime: 2025-03-12T15:41:51.527Z
 generator: Upptime <https://github.com/upptime/upptime>
